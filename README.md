@@ -1,6 +1,7 @@
+TBD
+
 - 👋 Hi, I’m @tonitmorro
 - 👀 I’m interested in videogames and animation (and both)
-- 🌱 I’m currently learning how to get my setup, C++, Python, Java and Unity
 - 💞️ I’m looking to collaborate on any game jam
 - 📫 How to reach me: tonitmorro@gmail.com (mail)
 
